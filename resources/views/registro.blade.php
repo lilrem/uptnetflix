@@ -14,6 +14,7 @@
 {{csrf_field()}}
     <input type="text" name="nombre" placeholder="Nombre">
     <br>
+    <h1>editoooo<h1>
     <br>
     <input type="text" name="ap_p" placeholder="Apellido">
     <br>
